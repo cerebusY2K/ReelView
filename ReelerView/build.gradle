@@ -46,7 +46,7 @@ afterEvaluate {
                 from components.findByName('release')
                 groupId = 'com.github.cerebusY2K'
                 artifactId = 'ReelerView'
-                version = '1.0.3'
+                version = '1.0.5'
             }
         }
     }
